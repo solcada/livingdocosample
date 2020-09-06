@@ -5,7 +5,7 @@
 ## Customers Database
 
 #### Overview 
-The database used to store customser data
+The database used to store customers data
 
 #### Used by
 [Customers API](/applications/customer-website.html)
