@@ -1,0 +1,25 @@
+title: Living Documentation
+lang: en
+description: A guide to organisational information management using a Living Documentation approach
+
+remote_theme: rundocs/jekyll-rtd-theme
+
+addons_branch: true
+edit: true
+
+addons:
+  - github
+  - i18n
+  - plugins
+  - analytics
+
+copyright:
+  revision: true
+
+readme_index:
+  with_frontmatter: true
+
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
