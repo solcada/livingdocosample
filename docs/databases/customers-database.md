@@ -2,13 +2,13 @@
  
 ---
 
-## Customers Api
+## Customers Database
 
 #### Overview 
-The customers api provides details on customers of the organisation
+The database used to store customser data
 
 #### Used by
-[Customer API](/applications/customers-api.html)
+[Customers API](/applications/customer-website.html)
 
 #### Depends On
 N/A
